@@ -1,0 +1,33 @@
+/* Cross-platform styles: dark mode support via prefers-color-scheme */
+
+.info-box {
+	fill: transparent;
+}
+
+@media (prefers-color-scheme: light) {
+	.warning-text {
+		stroke: #FF4D00;
+	}
+
+	.alert-text {
+		stroke: #EE0000;
+	}
+
+	.info-box {
+		stroke: #1E90FF;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	.warning-text {
+		stroke: #CC5522;
+	}
+
+	.alert-text {
+		stroke: #CC3333;
+	}
+
+	.info-box {
+		stroke: #5CB8FF;
+	}
+}

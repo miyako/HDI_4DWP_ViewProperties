@@ -1,6 +1,6 @@
-//%attributes = {}
-C_OBJECT:C1216(vInfos; vDoc)
-C_TEXT:C284($path)
+//%attributes = {"invisible":true}
+var vInfos; vDoc : Object
+var $path : Text
 
 
 
