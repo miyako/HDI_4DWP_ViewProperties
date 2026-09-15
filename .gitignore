@@ -5,6 +5,7 @@
 Data/
 Logs/
 userPreferences.*
+Libraries/
 
 # 4D derived/cache
 Project/DerivedData/
