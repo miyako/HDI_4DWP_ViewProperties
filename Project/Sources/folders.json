@@ -1,0 +1,24 @@
+{
+	"(Default Forms)": {},
+	"(Default Project Methods)": {},
+	"(Default Tables)": {},
+	"FORMS": {
+		"forms": [
+			"HDI",
+			"HDI2"
+		]
+	},
+	"METHODS": {
+		"methods": [
+			"00_Start",
+			"m_Quit"
+		]
+	},
+	"trash": {
+		"groups": [
+			"(Default Forms)",
+			"(Default Project Methods)",
+			"(Default Tables)"
+		]
+	}
+}

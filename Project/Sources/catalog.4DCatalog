@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="HDI_4DWP_ViewProperties" uuid="89D3E6F80FA9EA408A0E251A8569EC50" collation_locale="fr">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="(SAMPLES)" uuid="90427999CF844DEE9B3FE3F224795D2B" id="2" hide_in_REST="true">
+		<field name="ID" uuid="B0045E0583C747BE8D8CB6E6579C8224" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="TextToProcess" uuid="5A9F848E51FA4FA1839A48EC54F9F450" type="10" never_null="true" id="2"/>
+		<field name="Title" uuid="5C71D15E3A8D41499C49512DF2464094" type="10" limiting_length="255" never_null="true" id="3"/>
+		<field name="SampleSort" uuid="B67F12AE32944C30BEFBE4FAE7D63F72" type="4" never_null="true" id="4"/>
+		<field name="Parameter" uuid="5B29E3FD154C4FB19A5F5DCE0276FFD7" type="10" never_null="true" id="5"/>
+		<field name="Comments" uuid="5A68EC03DDC247A08BC4CCEAD59311BF" type="10" never_null="true" id="6"/>
+		<primary_key field_name="ID" field_uuid="B0045E0583C747BE8D8CB6E6579C8224"/>
+		<table_extra trashed="true" input_form="(Input)" output_form="(Output)"/>
+	</table>
+	<index kind="regular" unique_keys="true" uuid="52716723287F4F828B3A92E11BF8C686" type="7">
+		<field_ref uuid="B0045E0583C747BE8D8CB6E6579C8224" name="ID">
+			<table_ref uuid="90427999CF844DEE9B3FE3F224795D2B" name="(SAMPLES)"/>
+		</field_ref>
+	</index>
+	<base_extra data_file_path=":HowDoI.4DD" package_name="HDI_4DWP_ViewProperties" structure_file_name="HowDoI">
+		<journal_file journal_file_enabled="false"/>
+	</base_extra>
+</base>

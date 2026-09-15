@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+  <country>
+    <shortname>Angola</shortname>
+    <name>Republic of Angola</name>
+    <capital>Luanda</capital>
+    <language>Portuguese</language>
+    <anthem>Angola Avante!</anthem>
+    <currency>Kwanza</currency>
+    <timezone>WAT (UTC+1)</timezone>
+    <tld>.ao</tld>
+    <callingcode>+244</callingcode>
+    <area>1246700</area>
+    <areaposition>23</areaposition>
+    <inhabitants>16941000</inhabitants>
+    <inhabitantsposition>59</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Argentina</shortname>
+    <name>Argentine Republic</name>
+    <capital>Buenos Aires</capital>
+    <language>Spanish</language>
+    <anthem>Himno Nacional Argentino</anthem>
+    <currency>Peso</currency>
+    <timezone>ART (UTC-3)</timezone>
+    <tld>.ar</tld>
+    <callingcode>+54</callingcode>
+    <area>2780403</area>
+    <areaposition>8</areaposition>
+    <inhabitants>40482000</inhabitants>
+    <inhabitantsposition>30</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Australia</shortname>
+    <name>Commonwealth of Australia</name>
+    <capital>Canberra</capital>
+    <language>English</language>
+    <anthem>Advance Australia Fair</anthem>
+    <currency>Australian dollar</currency>
+    <timezone>UTC+8 to +10.5</timezone>
+    <tld>.au</tld>
+    <callingcode>+61</callingcode>
+    <area>7686850</area>
+    <areaposition>6</areaposition>
+    <inhabitants>21714000</inhabitants>
+    <inhabitantsposition>51</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Brazil</shortname>
+    <name>Federative Republic of Brazil</name>
+    <capital>Brasilia</capital>
+    <language>Portuguese</language>
+    <anthem>Hino Nacional Brasileiro</anthem>
+    <currency>Real </currency>
+    <timezone>BRT (UTC-2 to -4)</timezone>
+    <tld>.br</tld>
+    <callingcode>+55</callingcode>
+    <area>8514877</area>
+    <areaposition>5</areaposition>
+    <inhabitants>196342592</inhabitants>
+    <inhabitantsposition>5</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Canada</shortname>
+    <name>Canada</name>
+    <capital>Ottawa</capital>
+    <language>English and French</language>
+    <anthem>God Save the Queen</anthem>
+    <currency>Dollar</currency>
+    <timezone>UTC−3.5 to −8</timezone>
+    <tld>.ca</tld>
+    <callingcode>+1</callingcode>
+    <area>9984670</area>
+    <areaposition>2</areaposition>
+    <inhabitants>33600000</inhabitants>
+    <inhabitantsposition>36</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Chile</shortname>
+    <name>Republic of Chile</name>
+    <capital>Santiago</capital>
+    <language>Spanish</language>
+    <anthem> Himno Nacional de Chile</anthem>
+    <currency>Peso</currency>
+    <timezone>UTC-4</timezone>
+    <tld>.cl</tld>
+    <callingcode>+56</callingcode>
+    <area>756950</area>
+    <areaposition>38</areaposition>
+    <inhabitants>16928873</inhabitants>
+    <inhabitantsposition>60</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>China</shortname>
+    <name>People's Republic of China</name>
+    <capital>Beijing</capital>
+    <language>Standard Mandarin</language>
+    <anthem>March of the Volunteers</anthem>
+    <currency>Yuan</currency>
+    <timezone>UTC+8</timezone>
+    <tld>.cn</tld>
+    <callingcode>+86</callingcode>
+    <area>9826630</area>
+    <areaposition>3</areaposition>
+    <inhabitants>1321851888</inhabitants>
+    <inhabitantsposition>1</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Egypt</shortname>
+    <name>Arab Republic of Egypt</name>
+    <capital>Cairo</capital>
+    <language>Arabic</language>
+    <anthem>Bilady, Bilady, Bilady</anthem>
+    <currency>Egyptian pound</currency>
+    <timezone>EET (UTC+2)</timezone>
+    <tld>.eg</tld>
+    <callingcode>+20</callingcode>
+    <area>1002450</area>
+    <areaposition>30</areaposition>
+    <inhabitants>76000000</inhabitants>
+    <inhabitantsposition>16</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>France</shortname>
+    <name>French Republic</name>
+    <capital>Paris</capital>
+    <language>French</language>
+    <anthem>La Marseillaise</anthem>
+    <currency>Euro</currency>
+    <timezone>CET (UTC+1)</timezone>
+    <tld>.fr</tld>
+    <callingcode>+33</callingcode>
+    <area>674843</area>
+    <areaposition>40</areaposition>
+    <inhabitants>65073482</inhabitants>
+    <inhabitantsposition>19</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Germany</shortname>
+    <name>Federal Republic of Germany</name>
+    <capital>Berlin</capital>
+    <language>German</language>
+    <anthem>Das Lied der Deutschen</anthem>
+    <currency>Euro</currency>
+    <timezone>CET (UTC+1)</timezone>
+    <tld>.de</tld>
+    <callingcode>+49</callingcode>
+    <area>357021</area>
+    <areaposition>63</areaposition>
+    <inhabitants>82060000</inhabitants>
+    <inhabitantsposition>14</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>India</shortname>
+    <name>Republic of india</name>
+    <capital>New Dheli</capital>
+    <language>Hindi, English</language>
+    <anthem>Jana Gana Mana</anthem>
+    <currency>Indian rupee</currency>
+    <timezone>IST (UTC+5:30)</timezone>
+    <tld>.in</tld>
+    <callingcode>+91</callingcode>
+    <area>3287590</area>
+    <areaposition>7</areaposition>
+    <inhabitants>1147995898</inhabitants>
+    <inhabitantsposition>2</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Italy</shortname>
+    <name>Italian Republic</name>
+    <capital>Rome</capital>
+    <language>Italian</language>
+    <anthem>Il Canto degli Italiani</anthem>
+    <currency>Euro</currency>
+    <timezone>CET (UTC+1)</timezone>
+    <tld>.it</tld>
+    <callingcode>+39</callingcode>
+    <area>301338</area>
+    <areaposition>71</areaposition>
+    <inhabitants>59905225</inhabitants>
+    <inhabitantsposition>23</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Kenya</shortname>
+    <name>Republic of Kenya</name>
+    <capital>Nairobi</capital>
+    <language>Swahili, English</language>
+    <anthem>Ee Mungu Nguvu Yetu</anthem>
+    <currency>Kenyan shilling</currency>
+    <timezone>EAT (UTC+3)</timezone>
+    <tld>.ke</tld>
+    <callingcode>+254</callingcode>
+    <area>580367</area>
+    <areaposition>47</areaposition>
+    <inhabitants>37953840</inhabitants>
+    <inhabitantsposition>36</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Morocco</shortname>
+    <name>Kingdom of Morocco</name>
+    <capital>Rabat</capital>
+    <language>Arabic</language>
+    <anthem>Hymne Chérifien</anthem>
+    <currency>Moroccan dirham</currency>
+    <timezone>WET (UTC+0)</timezone>
+    <tld>.ma</tld>
+    <callingcode>+212</callingcode>
+    <area>446550</area>
+    <areaposition>57</areaposition>
+    <inhabitants>31352000</inhabitants>
+    <inhabitantsposition>37</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Namibia</shortname>
+    <name>Republic of Namibia</name>
+    <capital>Windhoek</capital>
+    <language>English</language>
+    <anthem>Namibia, Land of the Brave</anthem>
+    <currency>Namibian dollar</currency>
+    <timezone>WAT (UTC+1)</timezone>
+    <tld>.na</tld>
+    <callingcode>+264</callingcode>
+    <area>825418</area>
+    <areaposition>34</areaposition>
+    <inhabitants>2088669</inhabitants>
+    <inhabitantsposition>235</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Panama</shortname>
+    <name>Republic of Panama</name>
+    <capital>Panama City</capital>
+    <language>Spanish</language>
+    <anthem>Himno Nacional de Panamá </anthem>
+    <currency>Balboa</currency>
+    <timezone>(UTC-5)</timezone>
+    <tld>.pa</tld>
+    <callingcode>+507</callingcode>
+    <area>75517</area>
+    <areaposition>118</areaposition>
+    <inhabitants>3309679</inhabitants>
+    <inhabitantsposition>133</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Russia</shortname>
+    <name>Russian Federation</name>
+    <capital>Moscow</capital>
+    <language>Russian</language>
+    <anthem>Gosudarstvenny gimn Rossiyskoy Federatsii </anthem>
+    <currency>Ruble </currency>
+    <timezone>(UTC+2 to +12)</timezone>
+    <tld>.ru</tld>
+    <callingcode>+7</callingcode>
+    <area>17075400</area>
+    <areaposition>1</areaposition>
+    <inhabitants>142008838</inhabitants>
+    <inhabitantsposition>9</inhabitantsposition>
+    <pics_ok>1</pics_ok>
+  </country>
+  <country>
+    <shortname>Senegal</shortname>
+    <name>Republic of Senegal</name>
+    <capital>Dakar</capital>
+    <language>French</language>
+    <anthem>Pincez Tous vos Koras, Frappez les Balafons</anthem>
+    <currency>CFA franc</currency>
+    <timezone>UTC</timezone>
+    <tld>.sn</tld>
+    <callingcode>+221</callingcode>
+    <area>196723</area>
+    <areaposition>87</areaposition>
+    <inhabitants>	11658000</inhabitants>
+    <inhabitantsposition>72</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Spain</shortname>
+    <name>Kingdom of Spain</name>
+    <capital>Madrid</capital>
+    <language>Spanish</language>
+    <anthem>Marcha Real</anthem>
+    <currency>Euro</currency>
+    <timezone>UTC+1</timezone>
+    <tld>.es</tld>
+    <callingcode>+34</callingcode>
+    <area>504030</area>
+    <areaposition>51</areaposition>
+    <inhabitants>46157822</inhabitants>
+    <inhabitantsposition>28</inhabitantsposition>
+    <pics_ok>0</pics_ok>
+  </country>
+  <country>
+    <shortname>Swaziland</shortname>
+    <name>Kingdom of Swaziland</name>
+    <capital>Mbabane</capital>
+    <language>SiSwati</language>
+    <anthem>Nkulunkulu Mnikati wetibusiso temaSwati</anthem>
+    <currency>Lilangeni</currency>
+    <timezone>UTC+2</timezone>
+    <tld>.sz</tld>
+    <callingcode>+268</callingcode>
+    <area>17364</area>
+    <areaposition>157</areaposition>
+    <inhabitants>1141000</inhabitants>
+    <inhabitantsposition>154</inhabitantsposition>
+  </country>
+  <country>
+    <shortname>Switzerland</shortname>
+    <name>Swiss Confederation</name>
+    <capital>Bern</capital>
+    <language>German,
+French,
+Italian,
+Romansh</language>
+    <anthem>Einer für alle, alle für einen</anthem>
+    <currency>Swiss franc </currency>
+    <timezone>UTC+1</timezone>
+    <tld>.ch</tld>
+    <callingcode>+41</callingcode>
+    <area>41284</area>
+    <areaposition>136</areaposition>
+    <inhabitants>7700200</inhabitants>
+    <inhabitantsposition>94</inhabitantsposition>
+  </country>
+  <country>
+    <shortname>Thailand</shortname>
+    <name>Kingdom of Thailand</name>
+    <capital>Bangkok</capital>
+    <language>Thai</language>
+    <anthem>Phleng Sansoen Phra Barami</anthem>
+    <currency>Baht</currency>
+    <timezone>UTC+7</timezone>
+    <tld>.th</tld>
+    <callingcode>+66</callingcode>
+    <area>513115</area>
+    <areaposition>49</areaposition>
+    <inhabitants>63038247</inhabitants>
+    <inhabitantsposition>20</inhabitantsposition>
+  </country>
+  <country>
+    <shortname>USA</shortname>
+    <name>United States of America</name>
+    <capital>Washingtown, D.C.</capital>
+    <language>English</language>
+    <anthem>The Star-Spangled Banner</anthem>
+    <currency>Dollar</currency>
+    <timezone>UTC-5 to -10</timezone>
+    <tld>.us</tld>
+    <callingcode>+1</callingcode>
+    <area>9640821</area>
+    <areaposition>3</areaposition>
+    <inhabitants>306114000</inhabitants>
+    <inhabitantsposition>3</inhabitantsposition>
+  </country>
+  <country>
+    <shortname>Uruguay</shortname>
+    <name>Eastern Republic of Uruguay</name>
+    <capital>Montevideo</capital>
+    <language>Spanish</language>
+    <anthem>Himno Nacional Uruguayo</anthem>
+    <currency>Uruguayan peso</currency>
+    <timezone>UTC-3</timezone>
+    <tld>.uy</tld>
+    <callingcode>+598</callingcode>
+    <area>176215</area>
+    <areaposition>90</areaposition>
+    <inhabitants>3477779</inhabitants>
+    <inhabitantsposition>132</inhabitantsposition>
+  </country>
+</countries>

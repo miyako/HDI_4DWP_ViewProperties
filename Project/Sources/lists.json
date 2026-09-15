@@ -1,0 +1,125 @@
+{
+	"ColorListEN": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "Yellow",
+				"ref": 4,
+				"editable": false
+			},
+			{
+				"text": "Green",
+				"ref": 3,
+				"editable": false
+			},
+			{
+				"text": "Blue",
+				"ref": 2,
+				"editable": false
+			},
+			{
+				"text": "Red",
+				"ref": 1,
+				"editable": false
+			}
+		]
+	},
+	"ColorListFR": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "Jaune",
+				"ref": 4,
+				"editable": false
+			},
+			{
+				"text": "Vert",
+				"ref": 3,
+				"editable": false
+			},
+			{
+				"text": "Bleu",
+				"ref": 2,
+				"editable": false
+			},
+			{
+				"text": "Rouge",
+				"ref": 1,
+				"editable": false
+			}
+		]
+	},
+	"ColorListXX": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "bonjour",
+				"ref": 4,
+				"editable": false
+			},
+			{
+				"text": "alpha",
+				"ref": 2,
+				"editable": true
+			}
+		]
+	},
+	"New List": {
+		"lineHeight": 18,
+		"editable": false
+	},
+	"ALPHA": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "alpha",
+				"ref": 1,
+				"editable": true
+			},
+			{
+				"text": "bravo",
+				"ref": 2,
+				"editable": true
+			},
+			{
+				"text": "charlie",
+				"ref": 3,
+				"editable": true
+			}
+		]
+	},
+	"New List 1": {
+		"lineHeight": 18,
+		"editable": false
+	},
+	"tips": {
+		"lineHeight": 18,
+		"editable": true,
+		"items": [
+			{
+				"text": "help",
+				"ref": 1,
+				"editable": true
+			},
+			{
+				"text": "next",
+				"ref": 2,
+				"editable": true
+			},
+			{
+				"text": "previous",
+				"ref": 3,
+				"editable": true
+			},
+			{
+				"text": "save",
+				"ref": 4,
+				"editable": true
+			}
+		]
+	}
+}

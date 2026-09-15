@@ -1,0 +1,209 @@
+{
+	"destination": "detailScreen",
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onDoubleClick",
+		"onDrop",
+		"onMenuSelect",
+		"onPluginArea",
+		"onDataChange",
+		"onDragOver",
+		"onTimer",
+		"onAfterKeystroke",
+		"onAfterEdit",
+		"onBeginDragOver",
+		"onBoundVariableChange",
+		"onPageChange"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "US Letter",
+		"paperWidth": "612pt",
+		"paperHeight": "792pt"
+	},
+	"pages": [
+		{
+			"objects": {
+				"Tab Control": {
+					"type": "tab",
+					"top": 15,
+					"left": 19,
+					"width": 791,
+					"height": 831,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "Tab Control",
+					"dataSourceTypeHint": "arrayText",
+					"labels": [
+						"Infos",
+						"Demo"
+					],
+					"action": "gotoPage",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"WriteProArea": {
+					"type": "write",
+					"top": 58,
+					"left": 33,
+					"width": 750,
+					"height": 773,
+					"dataSource": "vInfos",
+					"enterable": false,
+					"focusable": false,
+					"hideFocusRing": true,
+					"dragging": "none",
+					"dropping": "none",
+					"scrollbarVertical": "automatic",
+					"scrollbarHorizontal": "automatic",
+					"showSelection": true,
+					"showHorizontalRuler": false,
+					"showVerticalRuler": false,
+					"layoutMode": "embedded",
+					"events": [
+						"onDataChange",
+						"onSelectionChange",
+						"onAfterEdit"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"Round Rectangle": {
+					"type": "rectangle",
+					"top": 167,
+					"left": 230,
+					"width": 535,
+					"height": 87,
+					"fill": "transparent",
+					"stroke": "#1E90FF",
+					"borderRadius": 10
+				},
+				"Text4": {
+					"type": "text",
+					"top": 177,
+					"left": 246,
+					"width": 509,
+					"height": 18,
+					"stroke": "#000000",
+					"fontFamily": "System Font",
+					"fontSize": 14,
+					"fontStyle": "italic",
+					"text": "The two 4D Write Pro areas are displaying the very same variable: \"vDoc\"."
+				},
+				"Text5": {
+					"type": "text",
+					"top": 205,
+					"left": 246,
+					"width": 509,
+					"height": 35,
+					"stroke": "#000000",
+					"fontFamily": "System Font",
+					"fontSize": 14,
+					"fontStyle": "italic",
+					"text": "When editing the document in the bottom area, the changes are shown in the preview area without any code!"
+				},
+				"WParea": {
+					"type": "write",
+					"top": 285,
+					"left": 27,
+					"width": 774,
+					"height": 545,
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"dataSource": "vDoc",
+					"focusable": false,
+					"hideFocusRing": true,
+					"scrollbarVertical": "automatic",
+					"scrollbarHorizontal": "automatic",
+					"zoom": 150,
+					"showSelection": true,
+					"showHiddenChars": true,
+					"showBackground": false,
+					"showHorizontalRuler": false,
+					"showVerticalRuler": false,
+					"layoutMode": "embedded",
+					"method": "ObjectMethods/WParea.4dm",
+					"events": [
+						"onLoad",
+						"onLosingFocus",
+						"onGettingFocus",
+						"onSelectionChange",
+						"onAfterEdit"
+					]
+				},
+				"Text1": {
+					"type": "text",
+					"top": 60,
+					"left": 210,
+					"width": 591,
+					"height": 43,
+					"fontFamily": "System Font",
+					"fontSize": 18,
+					"fontWeight": "bold",
+					"text": "Display the same document twice using different view properties"
+				},
+				"WriteProArea1": {
+					"type": "write",
+					"top": 51,
+					"left": 27,
+					"width": 162,
+					"height": 219,
+					"dataSource": "vDoc",
+					"enterable": false,
+					"hideFocusRing": true,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"zoom": 25,
+					"showSelection": true,
+					"showPageFrames": true,
+					"showHorizontalRuler": false,
+					"showVerticalRuler": false
+				},
+				"Text2": {
+					"type": "text",
+					"top": 93,
+					"left": 271,
+					"width": 521,
+					"height": 18,
+					"fontFamily": "System Font",
+					"fontSize": 14,
+					"text": "1.  As a preview of the document in a read-only area"
+				},
+				"Text3": {
+					"type": "text",
+					"top": 123,
+					"left": 271,
+					"width": 459,
+					"height": 19,
+					"fontFamily": "System Font",
+					"fontSize": 14,
+					"text": "2.  As an embedded 4D Write Pro area to edit the document"
+				}
+			}
+		}
+	],
+	"geometryStamp": 22,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	}
+}
