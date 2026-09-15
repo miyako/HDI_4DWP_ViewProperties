@@ -1,6 +1,6 @@
-C_OBJECT:C1216($WP_object)  // variable used manage to the 4D WritePro Widget
-C_POINTER:C301($WP_widgetPtr; $WP_areaPtr)  // Pointers on the area and widget
-C_TEXT:C284($WP_areaName; $WP_widgetName)  // "4DWritePro area" and "4DWritePro widget" object names
+var $WP_object : Object  // variable used manage to the 4D WritePro Widget
+var $WP_widgetPtr; $WP_areaPtr : Pointer  // Pointers on the area and widget
+var $WP_areaName; $WP_widgetName : Text  // "4DWritePro area" and "4DWritePro widget" object names
 
 // Change the lines below if you change the form object names
 $WP_areaName:="WParea"

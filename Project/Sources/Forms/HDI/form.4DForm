@@ -29,11 +29,11 @@
 					"width": 320,
 					"height": 77,
 					"visibility": "hidden",
-					"stroke": "#FF4D00",
+					"class": "warning-text",
 					"textAlign": "left",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13,
-					"text": "Do not attempt to open this HDI in Design mode using this version; if you do so, forms and/or methods could be altered because of missing functionality."
+					"text": ":xliff:HDI_TxtSorry1"
 				},
 				"TxtInfo1": {
 					"type": "text",
@@ -42,8 +42,9 @@
 					"width": 151,
 					"height": 18,
 					"class": "HDI",
+					"stroke": "automatic",
 					"fontWeight": "bold",
-					"text": "How Do I..."
+					"text": ":xliff:HDI_TxtInfo1"
 				},
 				"TxtInfo2": {
 					"type": "text",
@@ -52,8 +53,9 @@
 					"width": 280,
 					"height": 57,
 					"class": "HDI",
+					"stroke": "automatic",
 					"fontWeight": "bold",
-					"text": "… define view properties for a 4D Write Pro form object ?"
+					"text": ":xliff:HDI_TxtInfo2"
 				},
 				"TxtSorry2": {
 					"type": "text",
@@ -62,9 +64,10 @@
 					"width": 320,
 					"height": 81,
 					"visibility": "hidden",
+					"stroke": "automatic",
 					"textAlign": "center",
 					"fontWeight": "bold",
-					"text": "Sorry, this “How do I” (HDI) \rexample must be used with\ra newer version of 4D\r(v16 and above)."
+					"text": ":xliff:HDI_TxtSorry2"
 				},
 				"Picture3": {
 					"type": "picture",
@@ -81,9 +84,10 @@
 					"left": 120,
 					"width": 220,
 					"height": 16,
+					"stroke": "automatic",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 12,
-					"text": "4D v16 and above…"
+					"text": ":xliff:HDI_TxtVersion"
 				},
 				"TxtSorry3": {
 					"type": "text",
@@ -92,7 +96,7 @@
 					"width": 320,
 					"height": 37,
 					"visibility": "hidden",
-					"stroke": "#FF4D00",
+					"class": "warning-text",
 					"textAlign": "left",
 					"fontFamily": "Lucida Grande",
 					"fontSize": 13
@@ -102,11 +106,11 @@
 					"top": 280,
 					"left": 250,
 					"width": 90,
-					"height": 20,
 					"dataSource": "Demo",
 					"action": "accept",
-					"text": "Demo",
+					"text": ":xliff:HDI_BtnDemo",
 					"class": "default",
+					"method": "ObjectMethods/BtnDemo.4dm",
 					"focusable": false,
 					"defaultButton": true,
 					"events": [
@@ -120,11 +124,10 @@
 					"width": 280,
 					"height": 57,
 					"visibility": "hidden",
-					"stroke": "#EE0000",
-					"class": "HDI",
+					"class": "HDI alert-text",
 					"textAlign": "center",
 					"fontWeight": "bold",
-					"text": "4D Write license is required for this demo"
+					"text": ":xliff:HDI_TxtLicense"
 				}
 			}
 		}

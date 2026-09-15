@@ -44,8 +44,8 @@
 					"dataSource": "Tab Control",
 					"dataSourceTypeHint": "arrayText",
 					"labels": [
-						"Infos",
-						"Demo"
+						":xliff:HDI2_TabInfos",
+						":xliff:HDI2_TabDemo"
 					],
 					"action": "gotoPage",
 					"events": [
@@ -91,7 +91,7 @@
 					"width": 535,
 					"height": 87,
 					"fill": "transparent",
-					"stroke": "#1E90FF",
+					"class": "info-box",
 					"borderRadius": 10
 				},
 				"Text4": {
@@ -100,11 +100,11 @@
 					"left": 246,
 					"width": 509,
 					"height": 18,
-					"stroke": "#000000",
+					"stroke": "automatic",
 					"fontFamily": "System Font",
 					"fontSize": 14,
 					"fontStyle": "italic",
-					"text": "The two 4D Write Pro areas are displaying the very same variable: \"vDoc\"."
+					"text": ":xliff:HDI2_Text4"
 				},
 				"Text5": {
 					"type": "text",
@@ -112,11 +112,11 @@
 					"left": 246,
 					"width": 509,
 					"height": 35,
-					"stroke": "#000000",
+					"stroke": "automatic",
 					"fontFamily": "System Font",
 					"fontSize": 14,
 					"fontStyle": "italic",
-					"text": "When editing the document in the bottom area, the changes are shown in the preview area without any code!"
+					"text": ":xliff:HDI2_Text5"
 				},
 				"WParea": {
 					"type": "write",
@@ -153,10 +153,11 @@
 					"left": 210,
 					"width": 591,
 					"height": 43,
+					"stroke": "automatic",
 					"fontFamily": "System Font",
 					"fontSize": 18,
 					"fontWeight": "bold",
-					"text": "Display the same document twice using different view properties"
+					"text": ":xliff:HDI2_Text1"
 				},
 				"WriteProArea1": {
 					"type": "write",
@@ -182,9 +183,10 @@
 					"left": 271,
 					"width": 521,
 					"height": 18,
+					"stroke": "automatic",
 					"fontFamily": "System Font",
 					"fontSize": 14,
-					"text": "1.  As a preview of the document in a read-only area"
+					"text": ":xliff:HDI2_Text2"
 				},
 				"Text3": {
 					"type": "text",
@@ -192,9 +194,10 @@
 					"left": 271,
 					"width": 459,
 					"height": 19,
+					"stroke": "automatic",
 					"fontFamily": "System Font",
 					"fontSize": 14,
-					"text": "2.  As an embedded 4D Write Pro area to edit the document"
+					"text": ":xliff:HDI2_Text3"
 				}
 			}
 		}
