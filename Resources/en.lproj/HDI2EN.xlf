@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="plaintext" original="Sources/Forms/HDI2/form.4DForm" source-language="en" target-language="en">
+	<body>
+	  <trans-unit id="HDI2_TabInfos" resname="HDI2_TabInfos">
+		<source>Infos</source>
+		<target>Infos</target>
+	  </trans-unit>
+	  <trans-unit id="HDI2_TabDemo" resname="HDI2_TabDemo">
+		<source>Demo</source>
+		<target>Demo</target>
+	  </trans-unit>
+	  <trans-unit id="HDI2_Text1" resname="HDI2_Text1">
+		<source>Display the same document twice using different view properties</source>
+		<target>Display the same document twice using different view properties</target>
+	  </trans-unit>
+	  <trans-unit id="HDI2_Text2" resname="HDI2_Text2">
+		<source>1.  As a preview of the document in a read-only area</source>
+		<target>1.  As a preview of the document in a read-only area</target>
+	  </trans-unit>
+	  <trans-unit id="HDI2_Text3" resname="HDI2_Text3">
+		<source>2.  As an embedded 4D Write Pro area to edit the document</source>
+		<target>2.  As an embedded 4D Write Pro area to edit the document</target>
+	  </trans-unit>
+	  <trans-unit id="HDI2_Text4" resname="HDI2_Text4">
+		<source>The two 4D Write Pro areas are displaying the very same variable: "vDoc".</source>
+		<target>The two 4D Write Pro areas are displaying the very same variable: "vDoc".</target>
+	  </trans-unit>
+	  <trans-unit id="HDI2_Text5" resname="HDI2_Text5">
+		<source>When editing the document in the bottom area, the changes are shown in the preview area without any code!</source>
+		<target>When editing the document in the bottom area, the changes are shown in the preview area without any code!</target>
+	  </trans-unit>
+	</body>
+  </file>
+</xliff>
