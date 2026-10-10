@@ -69,9 +69,9 @@ Resources/
 
 ## Modernisation notes
 
-| Branch | Description | Instructions |
-|--------|-------------|--------------|
-| [`miyako-modernize-4d-hdi-project`](../../tree/miyako-modernize-4d-hdi-project) | Full modernisation: XLIFF localisation, `var`/`#DECLARE` syntax, a standard `"action": "quit"` menu item (removing the `m_Quit` wrapper), method visibility, a rebuilt startup dialog (window reuse, `CALL WORKER`, `BtnDemo` object method with `Form.quit`), and dark mode/Liquid Glass CSS. No listboxes exist in this project, so the listbox-defaults task was not applicable. | [localisation.instructions.md](.github/instructions/localisation.instructions.md), [variable.declarations.instructions.md](.github/instructions/variable.declarations.instructions.md), [menu.instructions.md](.github/instructions/menu.instructions.md), [method.visibility.instructions.md](.github/instructions/method.visibility.instructions.md), [startup.instructions.md](.github/instructions/startup.instructions.md), [css.instructions.md](.github/instructions/css.instructions.md), [tahoe.css.instructions.md](.github/instructions/tahoe.css.instructions.md), [listbox.instructions.md](.github/instructions/listbox.instructions.md) |
+| Branch | Description | Guidance |
+|--------|-------------|----------|
+| [`miyako-modernize-4d-hdi-project`](../../tree/miyako-modernize-4d-hdi-project) | Full modernisation: XLIFF localisation, `var`/`#DECLARE` syntax, a standard `"action": "quit"` menu item (removing the `m_Quit` wrapper), method visibility, a rebuilt startup dialog (window reuse, `CALL WORKER`, `BtnDemo` object method with `Form.quit`), and dark mode/Liquid Glass CSS. No listboxes exist in this project, so the listbox-defaults task was not applicable. | [`4dlocalise`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dlocalise), [`4dmodernise`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dmodernise), [`4dproject`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dproject), [`4dmethods`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dmethods), [`4dstartup`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dstartup), [hdi.startup.instructions.md](.github/instructions/hdi.startup.instructions.md), [`4dcss`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dcss), [`4dform`](https://github.com/miyako/skills/tree/main/4d-skills/skills/4dform) |
 
 ## References
 
